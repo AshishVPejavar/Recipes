@@ -1,0 +1,13 @@
+* {
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+.CB{
+    display:block;
+    width:33%;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+}
